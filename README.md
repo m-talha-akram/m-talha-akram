@@ -1,7 +1,4 @@
-👋 Hello! I’m M. Talha Akram
-🎯 I have a keen interest in political talk shows, debates, and sports.
-🌱 Currently, I am focused on enhancing my skills in web development.
-🤝 I am open to collaborations in web development and management.
-📬 Feel free to reach out via email: mtalhaakram09@gmail.com.
-😄 Pronouns: Talha
-⚡ Fun Fact: In my free time, I enjoy watching stand-up comedy and traveling to new places.
+Hi! I’m M. Talha Akram.
+I’m passionate about political talk shows, debates, and sports. Right now, I’m focusing on improving my skills in web development.
+I’m open to collaborating on web development projects and management.
+Feel free to reach out to me at mtalhaakram09@gmail.com
